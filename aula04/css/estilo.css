@@ -1,0 +1,35 @@
+div {
+    background-color: indianred;   
+    border-color: black;
+    border-width: 2px;
+    border-style: dotted;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ghostwhite;
+}
+
+#paragrafo1 {
+    color:gold;
+}
+
+#p2 {
+    color: lime; 
+    font-style: italic 
+}
+
+#title1 {
+    color: lightseagreen;
+}
+
+.alerta {
+    background-color: lightpink;
+    border-color: violet;
+    border-width: 3px;
+    border-style: double;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px
+}
